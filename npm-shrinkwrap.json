@@ -2696,9 +2696,9 @@
       "resolved": "https://registry.npmjs.org/grunt-log-headers/-/grunt-log-headers-1.0.1.tgz"
     },
     "grunt-mkdir": {
-      "version": "0.1.2",
-      "from": "grunt-mkdir@0.1.2",
-      "resolved": "https://registry.npmjs.org/grunt-mkdir/-/grunt-mkdir-0.1.2.tgz"
+      "version": "1.0.0",
+      "from": "grunt-mkdir@1.0.0",
+      "resolved": "https://registry.npmjs.org/grunt-mkdir/-/grunt-mkdir-1.0.0.tgz"
     },
     "grunt-newer": {
       "version": "1.1.2",
